@@ -47,7 +47,7 @@ Flutter Developer with 2+ years of experience building cross-platform mobile app
 ## 📫 Connect With Me
 
 - Email: [abmaurya012@gmail.com](mailto:abmaurya012@gmail.com)
-- LinkedIn: [linkedin.com/in/er-abhishek-mehta-7a309a1ba](https://www.linkedin.com/in/er-abhishek-mehta-7a309a1ba)
+- LinkedIn: [linkedin.com/in/abhishek-mehta-7a309a1ba](https://www.linkedin.com/in/abhishek-mehta-7a309a1ba)
 - Location: Bhilwara, Rajasthan
 
 ---
