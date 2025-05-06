@@ -1,83 +1,107 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Abhishek Mehta
 
-## 💻 Software Engineer passionate about building impactful solutions
+## 💻 Software Engineer & Flutter Developer
 
-I'm a software engineer focused on creating efficient, scalable, and user-friendly applications. With expertise in [your primary languages/technologies], I enjoy solving complex problems and delivering clean, well-tested code.
+I'm a Flutter Developer with 2+ years of experience building cross-platform mobile applications with expertise in IoT and e-commerce apps. Proficient in responsive UI development, RESTful API integration, and CI/CD deployment using Codemagic and GitLab. Experienced with app flavor configuration, Jira for project management, and agile development methodologies.
 
 ## 🛠️ Technologies & Tools
 
+![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML/CSS-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Codemagic-informational?style=flat&logo=codemagic&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=2bbc8a)
 
 ## 🚀 Featured Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
-- Full-stack application built with [technologies used]
-- Implemented [key feature] that resulted in [impressive metric]
-- Collaborated with a team of [X] developers using [methodology]
+### Lisios Wasseralarm - IoT Water Leak Detection System
+- Developed cross-platform mobile app for an IoT water leak detection system with Django backend
+- Created analytics dashboard for water usage tracking and implemented offline functionality
+- Set up CI/CD with Codemagic and configured multi-environment flavors (dev/staging/prod)
+- Successfully deployed to Google Play Store and Apple App Store with high user ratings
+- **Technologies:** Flutter, REST APIs, Getx, Codemagic CI/CD, App Flavors
 
-### [Project Name 2](https://github.com/yourusername/project2)
-- Created a [type of solution] that addresses [specific problem]
-- Utilized [technologies] to achieve [outcome]
-- Featured on [platform/recognition if applicable]
+### E-Commerce App & Location Tracker
+- Built full-featured e-commerce app with multi-provider authentication and responsive UI
+- Developed location tracking application with Google Maps integration and offline storage
+- Implemented development and production flavors with separate Firebase configurations
+- Set up GitLab repositories with CI/CD for automated testing and building
+- **Technologies:** Flutter, Firebase, Google Maps API, SQLite, GitLab CI/CD
 
-### [Project Name 3](https://github.com/yourusername/project3)
-- Developed [description of what you built]
-- Reduced [metric] by [percentage/amount] through [approach]
-- Currently has [X] active users/downloads/stars
+### NextHour OTT Platform & News Aggregator App
+- Updated and maintained OTT platform with video streaming capabilities and API optimization
+- Developed news aggregation app with WordPress API integration and offline reading features
+- Managed project tasks using Jira and implemented environment-specific configurations
+- **Technologies:** Flutter, Laravel/WordPress APIs, Provider State Management
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbMaurya0&show_icons=true&theme=radical)
 
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   10 hrs 41 mins  ███████████░░░░░░░░  42.8%
-TypeScript   5 hrs 25 mins   ██████░░░░░░░░░░░░░  21.7% 
-Python       4 hrs 32 mins   ████░░░░░░░░░░░░░░░  18.2%
-HTML         1 hr 12 mins    █░░░░░░░░░░░░░░░░░░   4.8%
-CSS          1 hr 7 mins     █░░░░░░░░░░░░░░░░░░   4.5%
+Dart         10 hrs 41 mins  ███████████░░░░░░░░  62.8%
+Java         2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░  14.2% 
+JavaScript   1 hr 32 mins    █░░░░░░░░░░░░░░░░░░   9.0%
+HTML/CSS     1 hr 12 mins    █░░░░░░░░░░░░░░░░░░   7.1%
+YAML         45 mins         ░░░░░░░░░░░░░░░░░░░   4.4%
 ```
 <!--END_SECTION:waka-->
 
 ## 🌱 Current Learning Focus
 
-- [Technology/framework/language] you're currently learning
-- [Certification/course] you're working on
-- [Concept/methodology] you're exploring
+- Advanced state management in Flutter (Bloc, Riverpod)
+- CI/CD pipeline optimization for mobile apps
+- Firebase Cloud Functions for backend services
+- App performance optimization techniques
 
 ## 💼 Professional Experience
 
-- **[Current/Most Recent Company]** - [Your Role] _(Dates)_
-  - Led development of [project/feature] that [impressive outcome]
-  - Mentored [X] junior developers in [technologies/practices]
-  - Improved [process/system] resulting in [measurable improvement]
+- **Hashtrust Technologies** - Flutter Developer _(July 2024 - Present)_
+  - Lead development of IoT and e-commerce mobile applications using Flutter/Dart
+  - Set up CI/CD pipelines with Codemagic for automated building and deployment
+  - Configured multiple app flavors (dev, staging, production) with environment-specific settings
+  - Managed project tasks and sprint planning using Jira in an Agile framework
+  - Integrated RESTful APIs and implemented state management solutions
 
-- **[Previous Company]** - [Your Role] _(Dates)_
-  - Developed and maintained [description of responsibilities]
-  - Implemented [specific achievement]
-  - Collaborated with [teams/stakeholders] to [accomplishment]
+- **Mediacity** - Flutter Developer Intern _(March 2023 - August 2023)_
+  - Maintained multiple Flutter projects including an OTT platform, news app, and learning platform
+  - Developed UI/UX designs for mobile applications from concept to implementation
+  - Integrated Laravel backend APIs and implemented environment-specific app configurations
+  - Gained practical experience with app flavor setup and Jira ticket management
+
+- **Thoughtpearl Software Pvt. Ltd., Jaipur** - Software Development Intern _(May 2022 - July 2022)_
+  - Assisted in Java-based application development and web components using HTML/CSS
+  - Used GitLab for version control and participated in code reviews
+
+## 🎓 Education
+
+- **B.Tech in Computer Science and Engineering** _(2019 - 2023)_
+  - Government Engineering College, Jhalawar
+  - CGPA: 8.02/10.0
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [your LinkedIn profile URL]
-- Email: your.email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Personal website: [your website URL]
+- Phone: +91 8005601925
+- Location: Bhilwara, Rajasthan
+- Email: [abmaurya012@gmail.com](mailto:abmaurya012@gmail.com)
+- LinkedIn: [linkedin.com/in/er-abhishek-mehta-7a309a1ba](https://www.linkedin.com/in/er-abhishek-mehta-7a309a1ba)
+- GitHub: [github.com/AbMaurya0](https://github.com/AbMaurya0)
 
 ## 🤝 Open to
 
-- Collaboration on open-source projects
-- Freelance development opportunities
-- Technical writing and speaking engagements
-- Mentorship connections
+- Flutter development opportunities
+- Mobile app consulting
+- Open-source contributions
+- Freelance development projects
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [AbMaurya0](https://github.com/AbMaurya0)
